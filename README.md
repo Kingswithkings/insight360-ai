@@ -1,1 +1,1 @@
-# insight360-ai
+# insight-ai
