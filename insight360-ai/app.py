@@ -13,11 +13,10 @@ st.set_page_config(
 
 st.title("🧠 Insight360 AI")
 st.caption("Turn complex public information into clear decisions.")
+st.info("Insight360 AI helps simplify complex public documents, policy updates, and reports into clear, structured insights for everyday understanding.")
 
 
 st.markdown("""
-Insight360 AI helps simplify public documents, council updates, policy statements, and public communications into clear, structured insights.
-
 Upload a PDF or paste text below.
 """)
 
